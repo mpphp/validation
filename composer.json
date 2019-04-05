@@ -1,0 +1,19 @@
+{
+    "name": "mpphp/validation",
+    "description": "MpPHP form validation library",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anitche Chisom",
+            "email": "anitchec.dev@gmail.com"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "validation.php"
+        ]
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
